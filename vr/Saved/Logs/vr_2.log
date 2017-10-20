@@ -1,0 +1,527 @@
+﻿Log file open, 10/21/17 01:03:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: vr
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1062829949) SRandInit(1062829949).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167298
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: C:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.20-16.03.56:051][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.20-16.03.56:051][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.20-16.03.56:062][  0]LogInit: Computer: ALIENWARE15-BIL
+[2017.10.20-16.03.56:062][  0]LogInit: User: lv8c8
+[2017.10.20-16.03.56:062][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.20-16.03.56:062][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2017.10.20-16.03.56:062][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.10.20-16.03.56:062][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.20-16.03.56:062][  0]LogMemory: Process Physical Memory: 286.39 MB used, 286.39 MB peak
+[2017.10.20-16.03.56:062][  0]LogMemory: Process Virtual Memory: 286.04 MB used, 286.04 MB peak
+[2017.10.20-16.03.56:062][  0]LogMemory: Physical Memory: 7917.74 MB used,  8339.23 MB free, 16256.98 MB total
+[2017.10.20-16.03.56:062][  0]LogMemory: Virtual Memory: 710.51 MB used,  8339.23 MB free, 134217728.00 MB total
+[2017.10.20-16.03.56:435][  0]LogInit: Overriding language with editor language configuration option (en).
+[2017.10.20-16.03.56:435][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2017.10.20-16.03.57:076][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.20-16.03.57:700][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.10.20-16.03.57:700][  0]LogD3D11RHI:       8074/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.20-16.03.57:719][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.10.20-16.03.57:719][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.10.20-16.03.57:720][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.20-16.03.57:720][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.20-16.03.57:720][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.20-16.03.57:727][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.20-16.03.57:727][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.20-16.03.57:727][  0]LogWindows: EnumDisplayDevices:
+[2017.10.20-16.03.57:727][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.10.20-16.03.57:728][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.20-16.03.57:728][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.20-16.03.57:728][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.20-16.03.57:728][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.10.20-16.03.57:728][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.10.20-16.03.57:728][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.10.20-16.03.57:728][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.10.20-16.03.57:728][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.10.20-16.03.57:728][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2017.10.20-16.03.57:728][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2017.10.20-16.03.57:728][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.20-16.03.58:324][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.20-16.03.58:372][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.20-16.03.58:414][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Intermediate/Shaders/WorkingDirectory/11032/).
+[2017.10.20-16.03.58:414][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lv8c8/AppData/Local/Temp/UnrealShaderWorkingDir/99EE6F1A4AE7CD433F7406B1D651DEEA/'.
+[2017.10.20-16.03.58:414][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.20-16.03.59:284][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.20-16.03.59:336][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.20-16.03.59:388][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.20-16.03.59:437][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.20-16.03.59:488][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.20-16.03.59:539][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.20-16.03.59:589][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.20-16.03.59:640][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.20-16.03.59:683][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.20-16.03.59:733][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.20-16.03.59:782][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.20-16.03.59:831][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.20-16.03.59:881][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.20-16.03.59:930][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.20-16.03.59:978][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.20-16.04.00:075][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.20-16.04.00:075][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.20-16.04.00:115][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.20-16.04.00:204][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.20-16.04.00:234][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.20-16.04.00:282][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.20-16.04.00:329][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.20-16.04.00:377][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.20-16.04.00:424][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.20-16.04.00:424][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.20-16.04.00:907][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.20-16.04.01:003][  0]LogDerivedDataCache: Loaded boot cache 0.10s 106MB C:/Users/lv8c8/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.20-16.04.01:003][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lv8c8/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.20-16.04.01:004][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.20-16.04.01:004][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.20-16.04.01:004][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.20-16.04.01:004][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.20-16.04.01:019][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.20-16.04.01:031][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lv8c8/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.20-16.04.01:042][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.20-16.04.01:042][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.20-16.04.01:043][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.20-16.04.01:043][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.20-16.04.01:286][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2017.10.20-16.04.01:392][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.20-16.04.01:742][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.20-16.04.01:780][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.20-16.04.01:780][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.20-16.04.01:780][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.20-16.04.01:780][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.20-16.04.01:780][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.20-16.04.01:781][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.20-16.04.02:202][  0]LogNetVersion: vr , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2337289163)
+[2017.10.20-16.04.02:377][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.020184 seconds
+[2017.10.20-16.04.02:382][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.20-16.04.02:382][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.20-16.04.02:382][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.20-16.04.02:450][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.20-16.04.04:882][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.20-16.04.04:923][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.20-16.04.05:526][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.20-16.04.05:910][  0]SourceControl: Source control is disabled
+[2017.10.20-16.04.05:910][  0]SourceControl: Source control is disabled
+[2017.10.20-16.04.05:955][  0]SourceControl: Source control is disabled
+[2017.10.20-16.04.06:002][  0]SourceControl: Source control is disabled
+[2017.10.20-16.04.06:550][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.20-16.04.06:778][  0]LogOcInput: OculusInput pre-init called
+[2017.10.20-16.04.07:022][  0]LogEngine: Initializing Engine...
+[2017.10.20-16.04.07:031][  0]LogHMD: Oculus plugin initialized. Version: 4.17.2-3658906+++UE4+Release-4.17, OVRPlugin: 1.15.0
+[2017.10.20-16.04.07:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.20-16.04.07:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.20-16.04.07:378][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.20-16.04.07:398][  0]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.04.07:407][  0]LogInit: FAudioDevice initialized.
+[2017.10.20-16.04.07:473][  0]LogDerivedDataCache: Saved boot cache 0.07s 106MB C:/Users/lv8c8/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.20-16.04.07:491][  0]LogInit: Texture streaming: Enabled
+[2017.10.20-16.04.07:602][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.20-16.04.07:818][  0]LogInit: Transaction tracking system initialized
+[2017.10.20-16.04.08:116][  0]BlueprintLog: New page: Editor Load
+[2017.10.20-16.04.09:012][  0]LocalizationService: Localization service is disabled
+[2017.10.20-16.04.09:762][  0]LogConsoleResponse: Display: 
+[2017.10.20-16.04.09:958][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.20-16.04.09:958][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.20-16.04.09:958][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.20-16.04.09:963][  0]LogFileCache: Scanning file cache for directory 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/' took 0.01s
+[2017.10.20-16.04.11:119][  0]SourceControl: Source control is disabled
+[2017.10.20-16.04.11:119][  0]Cmd: MAP LOAD FILE="d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.20-16.04.11:119][  0]LightingResults: New page: Lighting Build
+[2017.10.20-16.04.11:160][  0]MapCheck: New page: Map Check
+[2017.10.20-16.04.11:160][  0]LightingResults: New page: Lighting Build
+[2017.10.20-16.04.11:604][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.04.11:613][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.20-16.04.11:630][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.20-16.04.11:681][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.194ms to complete.
+[2017.10.20-16.04.11:682][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.563
+[2017.10.20-16.04.11:854][  0]LogCollectionManager: Loaded 0 collections in 0.001714 seconds
+[2017.10.20-16.04.11:932][  0]LogFileCache: Scanning file cache for directory 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/Collections/' took 0.01s
+[2017.10.20-16.04.11:932][  0]LogFileCache: Scanning file cache for directory 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/Developers/lv8c8/Collections/' took 0.01s
+[2017.10.20-16.04.11:932][  0]LogFileCache: Scanning file cache for directory 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/Collections/' took 0.01s
+[2017.10.20-16.04.11:933][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.20-16.04.11:944][  0]LogContentBrowser: Native class hierarchy populated in 0.0117 seconds. Added 2386 classes and 500 folders.
+[2017.10.20-16.04.12:015][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.10.20-16.04.12:058][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.10.20-16.04.12:112][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.10.20-16.04.13:249][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.20-16.04.13:252][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.20-16.04.13:260][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.20-16.04.13:417][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.vr
+[2017.10.20-16.04.13:417][  0]LogTemp: CWD: C:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.20-16.04.13:417][  0]LogTemp: Initial Dir: C:\Unreal Engine\UE_4.17
+[2017.10.20-16.04.13:417][  0]LogTemp: Env CWD: C:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.20-16.04.13:417][  0]LogTemp: BranchPath = ALIENWARE15-BIL/C/Unreal Engine/UE_4.17/Engine/Binaries --- GameBranchPath = ALIENWARE15-BIL/C/Unreal Engine/UE_4.17/Engine/Binaries
+[2017.10.20-16.04.13:417][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\lv8c8\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.20-16.04.13:417][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2017.10.20-16.04.13:607][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.20-16.04.13:608][  0]LogLoad: (Engine Initialization) Total time: 19.12 seconds
+[2017.10.20-16.04.13:608][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.20-16.04.13:608][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.20-16.04.13:608][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.20-16.04.13:952][  0]LogOcInput: OculusInput is initialized
+[2017.10.20-16.04.13:978][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.20-16.04.14:034][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.20-16.04.14:301][  1]LogAssetRegistry: Asset discovery search completed in 13.0361 seconds
+[2017.10.20-16.04.14:304][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.10.20-16.04.14:304][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2017.10.20-16.04.14:955][  3]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.20-16.04.39:234][544]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.20-16.04.39:594][544]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.10.20-16.04.40:174][544]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.20-16.04.40:240][544]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.20-16.04.40:395][545]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.20-16.05.44:976][634]BlueprintLog: New page: Compile MotionControllerPawn
+[2017.10.20-16.06.03:474][704]BlueprintLog: New page: Compile MotionControllerPawn
+[2017.10.20-16.06.06:262][851]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.20-16.06.06:357][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.06.06:357][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-16.06.06:358][851]LogHMD: Initializing OVRPlugin session
+[2017.10.20-16.06.06:384][851]PIE: New page: PIE session: MotionControllerMap (Oct 21, 2017, 10:06:06 AM)
+[2017.10.20-16.06.06:385][851]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.10.20-16.06.06:392][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007758s)
+[2017.10.20-16.06.06:393][851]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.06.06:393][851]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2017.10.20-16.06.06:393][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008647s)
+[2017.10.20-16.06.06:423][851]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.06.06:428][851]LogInit: FAudioDevice initialized.
+[2017.10.20-16.06.06:473][851]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-16.06.06:473][851]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-16.06.06:476][851]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.10.21-01.06.06
+[2017.10.20-16.06.06:477][851]LogWorld: Bringing up level for play took: 0.002117
+[2017.10.20-16.06.06:520][851]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.10.20-16.06.06:523][851]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.045
+[2017.10.20-16.06.06:523][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.06.16:292][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.06.16:325][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.06.21:494][707]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.20-16.06.21:513][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.06.21:513][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-16.06.21:513][707]PIE: New page: PIE session: MotionControllerMap (Oct 21, 2017, 10:06:21 AM)
+[2017.10.20-16.06.21:513][707]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.10.20-16.06.21:522][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008443s)
+[2017.10.20-16.06.21:523][707]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.06.21:523][707]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2017.10.20-16.06.21:523][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009635s)
+[2017.10.20-16.06.21:553][707]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.06.21:558][707]LogInit: FAudioDevice initialized.
+[2017.10.20-16.06.21:591][707]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-16.06.21:591][707]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-16.06.21:594][707]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2017.10.21-01.06.21
+[2017.10.20-16.06.21:594][707]LogWorld: Bringing up level for play took: 0.002092
+[2017.10.20-16.06.21:597][707]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.029
+[2017.10.20-16.06.21:597][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.06.59:096][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.06.59:135][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.07.01:128][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.07.01:128][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-16.07.01:129][ 71]PIE: New page: PIE session: MotionControllerMap (Oct 21, 2017, 10:07:01 AM)
+[2017.10.20-16.07.01:129][ 71]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.10.20-16.07.01:138][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009501s)
+[2017.10.20-16.07.01:139][ 71]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.07.01:139][ 71]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2017.10.20-16.07.01:139][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010394s)
+[2017.10.20-16.07.01:183][ 71]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.07.01:188][ 71]LogInit: FAudioDevice initialized.
+[2017.10.20-16.07.01:275][ 71]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2017.10.20-16.07.01:302][ 71]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-16.07.01:302][ 71]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-16.07.01:305][ 71]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.10.21-01.07.01
+[2017.10.20-16.07.01:305][ 71]LogWorld: Bringing up level for play took: 0.002345
+[2017.10.20-16.07.01:313][ 71]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.745
+[2017.10.20-16.07.01:314][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.07.01:342][ 71]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 26 NumSamples 1 (Frame:1).
+[2017.10.20-16.07.15:975][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.07.16:127][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.08.37:219][186]BlueprintLog: New page: Compile MotionControllerPawn
+[2017.10.20-16.08.37:966][213]LogTemp: Repeating last play command: VR Preview
+[2017.10.20-16.08.37:995][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.08.37:995][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-16.08.37:995][213]LogHMD: Initializing OVRPlugin session
+[2017.10.20-16.08.38:015][213]PIE: New page: PIE session: MotionControllerMap (Oct 21, 2017, 10:08:38 AM)
+[2017.10.20-16.08.38:015][213]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.10.20-16.08.38:024][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008779s)
+[2017.10.20-16.08.38:025][213]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.08.38:025][213]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2017.10.20-16.08.38:025][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009600s)
+[2017.10.20-16.08.38:056][213]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.08.38:060][213]LogInit: FAudioDevice initialized.
+[2017.10.20-16.08.38:132][213]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2017.10.20-16.08.38:157][213]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-16.08.38:157][213]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-16.08.38:160][213]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.10.21-01.08.38
+[2017.10.20-16.08.38:160][213]LogWorld: Bringing up level for play took: 0.002285
+[2017.10.20-16.08.38:161][213]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.20-16.08.38:165][213]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.402
+[2017.10.20-16.08.38:165][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.09.20:577][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.09.20:846][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.11.38:017][878]LogSavePackage: Save=135.42ms
+[2017.10.20-16.11.38:017][878]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/BP_MotionController04BA25A446C2C85D689220B05035097C.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2017.10.20-16.11.38:020][878]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2017.10.20-16.12.40:830][612]BlueprintLog: New page: Compile BP_MotionController
+[2017.10.20-16.12.41:958][640]LogSavePackage: Save=133.67ms
+[2017.10.20-16.12.41:958][640]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/BP_MotionController943509D14FD743503A6A4A9C0016743A.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2017.10.20-16.12.41:959][640]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2017.10.20-16.12.55:371][444]LogTemp: Repeating last play command: VR Preview
+[2017.10.20-16.12.55:393][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.12.55:393][444]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.20-16.12.55:419][444]LogPlayLevel: [PlayLevel] Compiling BP_MotionController_arm before play...
+[2017.10.20-16.12.55:441][444]LogPlayLevel: [PlayLevel]   Compiling MotionControllerPawn as a dependent...
+[2017.10.20-16.12.55:865][444]LogPlayLevel: PlayLevel: Blueprint regeneration took 472 ms (2 blueprints)
+[2017.10.20-16.12.55:866][444]LogHMD: Initializing OVRPlugin session
+[2017.10.20-16.12.55:884][444]PIE: New page: PIE session: MotionControllerMap (Oct 21, 2017, 10:12:55 AM)
+[2017.10.20-16.12.55:884][444]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.10.20-16.12.55:892][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007927s)
+[2017.10.20-16.12.55:893][444]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.12.55:893][444]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2017.10.20-16.12.55:893][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008919s)
+[2017.10.20-16.12.55:923][444]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.12.55:928][444]LogInit: FAudioDevice initialized.
+[2017.10.20-16.12.56:010][444]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2017.10.20-16.12.56:039][444]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-16.12.56:039][444]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-16.12.56:041][444]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.10.21-01.12.56
+[2017.10.20-16.12.56:042][444]LogWorld: Bringing up level for play took: 0.002076
+[2017.10.20-16.12.56:042][444]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.20-16.12.56:051][444]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.483
+[2017.10.20-16.12.56:051][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.13.17:324][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.13.17:505][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.13.44:220][309]BlueprintLog: New page: Compile BP_MotionController_arm
+[2017.10.20-16.13.45:036][310]LogSavePackage: Save=140.62ms
+[2017.10.20-16.13.45:036][310]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/BP_MotionController_armA1D876724289CA90B3F082A6F06FA2FA.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController_arm.uasset'
+[2017.10.20-16.13.45:043][310]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController_arm.uasset
+[2017.10.20-16.13.49:511][564]LogSavePackage: Save=134.16ms
+[2017.10.20-16.13.49:511][564]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/MotionControllerPawnAE3C2A5445195F32848A5087C97FE439.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2017.10.20-16.13.49:514][564]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2017.10.20-16.14.06:506][582]BlueprintLog: New page: Compile MotionControllerPawn
+[2017.10.20-16.14.22:903][544]LogTemp: Repeating last play command: VR Preview
+[2017.10.20-16.14.22:936][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.22:936][544]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.20-16.14.22:952][544]LogPlayLevel: [PlayLevel] Compiling MotionControllerPawn before play...
+[2017.10.20-16.14.23:212][544]LogPlayLevel: PlayLevel: Blueprint regeneration took 276 ms (1 blueprints)
+[2017.10.20-16.14.23:212][544]LogHMD: Initializing OVRPlugin session
+[2017.10.20-16.14.23:231][544]PIE: New page: PIE session: MotionControllerMap (Oct 21, 2017, 10:14:23 AM)
+[2017.10.20-16.14.23:231][544]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.10.20-16.14.23:239][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007928s)
+[2017.10.20-16.14.23:239][544]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.14.23:240][544]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2017.10.20-16.14.23:240][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009100s)
+[2017.10.20-16.14.23:271][544]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.14.23:276][544]LogInit: FAudioDevice initialized.
+[2017.10.20-16.14.23:347][544]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2017.10.20-16.14.23:373][544]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-16.14.23:373][544]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-16.14.23:375][544]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.10.21-01.14.23
+[2017.10.20-16.14.23:375][544]LogWorld: Bringing up level for play took: 0.002041
+[2017.10.20-16.14.23:376][544]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.20-16.14.23:379][544]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.812
+[2017.10.20-16.14.23:380][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.26:040][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.26:257][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.27:486][782]LogTemp: Repeating last play command: VR Preview
+[2017.10.20-16.14.27:514][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.27:514][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-16.14.27:514][782]LogHMD: Initializing OVRPlugin session
+[2017.10.20-16.14.27:534][782]PIE: New page: PIE session: MotionControllerMap (Oct 21, 2017, 10:14:27 AM)
+[2017.10.20-16.14.27:534][782]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.10.20-16.14.27:542][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008051s)
+[2017.10.20-16.14.27:543][782]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.14.27:543][782]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2017.10.20-16.14.27:543][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008802s)
+[2017.10.20-16.14.27:574][782]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.14.27:578][782]LogInit: FAudioDevice initialized.
+[2017.10.20-16.14.27:663][782]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2017.10.20-16.14.27:691][782]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-16.14.27:691][782]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-16.14.27:694][782]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.10.21-01.14.27
+[2017.10.20-16.14.27:694][782]LogWorld: Bringing up level for play took: 0.002462
+[2017.10.20-16.14.27:703][782]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.135
+[2017.10.20-16.14.27:703][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.30:066][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.30:219][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.31:241][989]LogTemp: Repeating last play command: VR Preview
+[2017.10.20-16.14.31:259][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.31:259][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-16.14.31:259][989]LogHMD: Initializing OVRPlugin session
+[2017.10.20-16.14.31:277][989]PIE: New page: PIE session: MotionControllerMap (Oct 21, 2017, 10:14:31 AM)
+[2017.10.20-16.14.31:277][989]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.10.20-16.14.31:285][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007959s)
+[2017.10.20-16.14.31:285][989]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.14.31:285][989]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2017.10.20-16.14.31:286][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008804s)
+[2017.10.20-16.14.31:315][989]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.14.31:319][989]LogInit: FAudioDevice initialized.
+[2017.10.20-16.14.31:403][989]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2017.10.20-16.14.31:431][989]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-16.14.31:431][989]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-16.14.31:433][989]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.10.21-01.14.31
+[2017.10.20-16.14.31:433][989]LogWorld: Bringing up level for play took: 0.002127
+[2017.10.20-16.14.31:441][989]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.873
+[2017.10.20-16.14.31:441][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.43:114][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.14.43:286][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.17.12:779][386]LogSavePackage: Save=138.65ms
+[2017.10.20-16.17.12:779][386]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/MotionControllerMap_Auto1A202F5DF48384FBC0FEA0AB47897451A.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2017.10.20-16.17.12:782][386]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap
+[2017.10.20-16.17.12:786][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.181
+[2017.10.20-16.17.12:786][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.181
+[2017.10.20-16.17.12:804][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2017.10.20-16.17.12:804][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2017.10.20-16.17.12:911][386]LogSavePackage: Save=105.01ms
+[2017.10.20-16.17.12:911][386]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/MotionControllerPawn_Auto1B1B94A654C72F1528F6A8EAB9A0B913D.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto1.uasset'
+[2017.10.20-16.17.12:913][386]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto1.uasset
+[2017.10.20-16.17.12:913][386]LogFileHelpers: Auto-saving content packages took 0.110
+[2017.10.20-16.18.36:716][399]LogSavePackage: Save=99.56ms
+[2017.10.20-16.18.36:716][399]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/MotionControllerPawn1C7D1CE0463F12D05670299601A5DA35.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2017.10.20-16.18.36:721][399]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2017.10.20-16.18.37:783][463]BlueprintLog: New page: Compile MotionControllerPawn
+[2017.10.20-16.18.38:803][500]LogSavePackage: Save=93.97ms
+[2017.10.20-16.18.38:803][500]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/MotionControllerPawnB683C2B94398689CFF632F80BFEC0929.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2017.10.20-16.18.38:804][500]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2017.10.20-16.19.31:330][433]LogTemp: Repeating last play command: VR Preview
+[2017.10.20-16.19.31:364][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.19.31:364][433]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.20-16.19.31:393][433]LogPlayLevel: [PlayLevel] Compiling BP_MotionController_arm before play...
+[2017.10.20-16.19.31:416][433]LogPlayLevel: [PlayLevel]   Compiling MotionControllerPawn as a dependent...
+[2017.10.20-16.19.31:849][433]LogPlayLevel: PlayLevel: Blueprint regeneration took 484 ms (2 blueprints)
+[2017.10.20-16.19.31:849][433]LogHMD: Initializing OVRPlugin session
+[2017.10.20-16.19.31:869][433]PIE: New page: PIE session: MotionControllerMap (Oct 21, 2017, 10:19:31 AM)
+[2017.10.20-16.19.31:869][433]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.10.20-16.19.31:877][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008041s)
+[2017.10.20-16.19.31:878][433]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.10.20-16.19.31:878][433]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2017.10.20-16.19.31:878][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009046s)
+[2017.10.20-16.19.31:910][433]LogInit: XAudio2 using 'ヘッドホン (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-16.19.31:915][433]LogInit: FAudioDevice initialized.
+[2017.10.20-16.19.31:997][433]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2017.10.20-16.19.32:024][433]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-16.19.32:024][433]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-16.19.32:027][433]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.10.21-01.19.32
+[2017.10.20-16.19.32:028][433]LogWorld: Bringing up level for play took: 0.002809
+[2017.10.20-16.19.32:028][433]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.20-16.19.32:038][433]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.47
+[2017.10.20-16.19.32:038][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.19.43:492][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.19.43:648][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.10.20-16.19.48:924][508]BlueprintLog: New page: Compile BP_MotionController_arm
+[2017.10.20-16.19.54:771][811]LogSavePackage: Save=185.67ms
+[2017.10.20-16.19.54:771][811]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/BP_MotionController_arm7CD0576B437D5117C33E88A6CCDEE037.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController_arm.uasset'
+[2017.10.20-16.19.54:774][811]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController_arm.uasset
+[2017.10.20-16.27.28:769][411]LogSavePackage: Save=415.50ms
+[2017.10.20-16.27.28:769][411]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/MotionControllerMap_Auto2261F6EC743DFEC7D51F3C3ADB69C7861.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2017.10.20-16.27.28:783][411]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap
+[2017.10.20-16.27.28:787][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.468
+[2017.10.20-16.27.28:787][411]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.468
+[2017.10.20-16.28.46:568][601]LogSavePackage: Save=130.22ms
+[2017.10.20-16.28.46:568][601]LogSavePackage: Moving 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Saved/BP_MotionController94F458E648C48C38032D62AB4EAFDCAD.tmp' to 'd:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2017.10.20-16.28.46:569][601]LogSavePackage: Display: Finished SavePackage d:/Users/lv8c8/Documents/Unreal Projects/misa/vr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
