@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.17",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AllrightRig",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
